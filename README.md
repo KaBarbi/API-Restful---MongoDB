@@ -1,23 +1,8 @@
-# Trabalho de banco de dados nosql - API Rest integrado ao mongodb
-
-### Link do github
-
-https://github.com/DaikKiad/BookHub
-
-### Integrantes:
-
-Gabriel Campari Correia
-Gabriel Henrique Vieira Imolene
-Gustavo Almeida de Moura
-Kauê Sanches Barbi
-Miguel Fernandes Bellini 
+#API Rest integrado ao mongodb
 
 ### Especificações:
 
 API Rest feita em NODE.JS com Express, integrado a um banco em mongodb. 
-
-> O que é rest? Rest é a representação de estado de trasnferência onde representa um padrão para API's web com protocolo HTTP.
-> E o que são API's, essas por sua vez são interfaces usadas na programação. 
 
 A API Rest desse software será uma biblioteca virtual para o armazenamento de livros e retirada(alugar) de livros, além de outras funções http.
 
